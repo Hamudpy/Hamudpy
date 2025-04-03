@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Hamud
 i'm a Software Developer
 - Technology i use Python,Lua,C#,Linux,DevOps,CLIs
- 📫 to reach me HamudCode on discord
-i'm a 13 year old 
+- IoT🤖 and Cloud Engineering ☁
+- 📫 to reach me HamudCode on discord
+-i'm a 13 year old
+
 
 <!---
 Hamudpy/Hamudpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
